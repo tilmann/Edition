@@ -3,12 +3,17 @@
 }
 
 .with-full-cover .site-header {
-    position: relative;
+    background: var(--darker-gray-color);
+    position: fixed;
+    width: 100%;
     z-index: 90;
 }
 
 .with-alt-header .site-header {
     background-color: var(--brand-color);
+    position: fixed;
+    width: 100%;
+    z-index: 90;
 }
 
 .header-inner {
