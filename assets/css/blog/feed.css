@@ -125,6 +125,7 @@
     flex-shrink: 0;
     margin-right: 2.5rem;
     width: 160px;
+    height: 160px;
 }
 
 .post-feed:not(.expanded) .feed-image {
